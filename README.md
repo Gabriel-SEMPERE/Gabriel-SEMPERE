@@ -1,16 +1,30 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Gabriel%20SEMPERE&fontSize=70&animation=fadeIn" />
+</p>
 
-<!--
-**Gabriel-SEMPERE/Gabriel-SEMPERE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Développeur+Web;Expert+en+Solutions;Curieux+de+nature;Apprenant+perpétuel" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👋 À propos de moi
+
+- 🔭 J'étudie sur plusieurs project **Je fais pas mal de projet important**
+- 🌱 J'apprends en ce moment **Php et MySQL**
+- 💬 Spécialisation **Web**
+- ⚡ Fun fact: **J'ai commencer il y a déjà 6 ans**
+
+### 📊 Statistiques GitHub
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-SEMPERE&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Gabriel-SEMPERE&label=Vues%20du%20profil&color=0e75b6&style=flat" alt="Vues" />
+</p>
