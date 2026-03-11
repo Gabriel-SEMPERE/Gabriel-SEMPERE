@@ -10,10 +10,10 @@
 
 ### 👋 À propos de moi
 
-- 🔭 J'étudie sur plusieurs project **Je fais pas mal de projet important**
+- 🔭 Mon projet actuelle est  **GameKeeper**
 - 🌱 J'apprends en ce moment **Php et MySQL**
 - 💬 Spécialisation **Web**
-- ⚡ Fun fact: **J'ai commencer il y a déjà 6 ans**
+- ⚡ Parcours: **J'ai commencer à apprendre il y à 6 ans**
 
 ### 📊 Statistiques GitHub
 
